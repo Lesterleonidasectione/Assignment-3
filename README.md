@@ -7,7 +7,10 @@ This is an interactive quiz application where users can test their knowledge by 
 To run the quiz application, open the `index.html` file in a web browser. Make sure all necessary files (`index.html`, `style.css`, and `script.js`) are present in the same directory.
 
 ```bash
+$ git clone https://github.com/your-username/lestats-quiz.git
+$ cd lestats-quiz
 $ open index.html
+
 ```
 
 ## Features
